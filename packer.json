@@ -1,0 +1,35 @@
+{
+  "builders": [
+    {
+      "profile" : "{{user `profile`}}",
+      "ami_groups": "all",
+      "ami_name": "packer-ami-{{timestamp}}",
+      "associate_public_ip_address": true,
+      "instance_type": "{{user `instance_type`}}",
+      "region": "{{user `vpc_region`}}",
+      "ssh_username": "ec2-user",
+      "source_ami": "{{user `source_ami`}}",
+      "type": "amazon-ebs"
+    }
+  ],
+  "post-processors": [
+    {
+      "output": "manifest.json",
+      "strip_path": true,
+      "type": "manifest"
+    }
+  ],
+  "provisioners": [
+    {
+      "script": "base_script.sh",
+      "type": "shell"
+    }
+  ],
+  "variables": {
+    "profile" : "ttn",
+    "instance_type": "t2.micro",
+    "vpc_region": "us-east-1",
+    "source_ami": "ami-0dc2d3e4c0f9ebd18"
+  }
+}
+

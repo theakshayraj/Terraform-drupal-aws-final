@@ -2,7 +2,7 @@
 
 > A curated help menu of terraform modules used in the project.
 
-[<img src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg" align="right" width="600">](https://terraform.io)
+[<img src="https://github.com/theakshayraj/my-files/blob/main/file_type_terraform_icon_130125.png" align="right" width="600">](https://terraform.io)
 
 [**Module 1**](#mod1): Autoscaling
 

@@ -1,7 +1,7 @@
 
 
 <img align="left" alt="Drupal Logo" src="https://www.drupal.org/files/Wordmark_blue_RGB.png" height="60px">
-<img align="right" alt="Terraform" src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg"  width="300">
+<img align="right" alt="Terraform" src="https://github.com/theakshayraj/my-files/blob/main/file_type_terraform_icon_130125.png"  width="160">
 <p align="center"><img align="middle" width="160" height="96" alt="AWS" src="https://user-images.githubusercontent.com/42437393/126828661-63749f56-2bd4-4447-9225-f41dd737025b.png"></p>
 <br>
 

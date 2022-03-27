@@ -55,13 +55,6 @@ Also, a dedicated module named Network aims to provide desired information to im
   yum install https://releases.hashicorp.com/terraform/0.12.13/terraform_0.12.13_linux_amd64.zip
 ```
 
-- Clone Repository
-```
-  git clone https://github.com/rahulttn/ttn-work.git
-  git checkout drupal
-  cd group-project
-```
-
 - Changes when using your own custom VPC
   - Switch to [drupal-custom-vpc](https://github.com/rahulttn/ttn-work/tree/drupal-custom-vpc) branch
     - Go to the [Network module variables.tf](https://github.com/rahulttn/ttn-work/blob/drupal-custom-vpc/group-project/modules/network/variables.tf)

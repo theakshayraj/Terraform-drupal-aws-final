@@ -144,20 +144,4 @@ Herein we've been using `make` to running all commands with a single tool. Detai
 -  1 Monitoring Instance
 -  1 RDS in Private Subnet
 
-## Contributors
-
-|  Feature           | Contributor                                   |
-| :------------- | :-------------------------------------------- |
-| Drupal Deployment | [Digam Jain](https://github.com/digamjain), [Akshay Raj](https://github.com/theakshayraj) |
-| Terraform Integration and Testing | [Akshay Raj](https://github.com/theakshayraj) |
-| AMI Generation | [Manan Jain](https://github.com/manan3349), [Aahan Sharma](https://github.com/mkd63), [Akshay Raj](https://github.com/theakshayraj) |
-| Monitoring module integration | [Aahan Sharma](https://github.com/mkd63) |
-| IAM Policies and Roles | [Aahan Sharma](https://github.com/mkd63), [Manan Jain](https://github.com/manan3349) |
-| DB module integration | [Akshay Raj](https://github.com/theakshayraj), [Digam Jain](https://github.com/digamjain) |
-| Secret Manager Integration | [Akash Raturi](https://github.com/nutsbrainup), [Aahan Sharma](https://github.com/mkd63) |
-| ASG module Integration | [Akshay Raj](https://github.com/theakshayraj), [Akash Raturi](https://github.com/nutsbrainup), [Digam Jain](https://github.com/digamjain) |
-| Network module Integration | [Akshay Raj](https://github.com/theakshayraj) |
-| Documentation | [Digam Jain](https://github.com/digamjain), [Silky](https://github.com/silky2001), [Riya Shrivastava](https://github.com/riyas2327) |
-
-
 
